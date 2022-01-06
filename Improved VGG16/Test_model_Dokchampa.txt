@@ -1,0 +1,106 @@
+Prediction:  ກ 
+ Confidence:  0.9999969
+Prediction:  ຂ 
+ Confidence:  0.99222904
+Prediction:  ຄ 
+ Confidence:  0.99991465
+Prediction:  ງ 
+ Confidence:  0.996752
+Prediction:  ຈ 
+ Confidence:  0.99951947
+Prediction:  ສ 
+ Confidence:  0.9992537
+Prediction:  ຊ 
+ Confidence:  0.9019005
+Prediction:  ຍ 
+ Confidence:  0.99999976
+Prediction:  ດ 
+ Confidence:  0.9988606
+Prediction:  ຕ 
+ Confidence:  0.9993901
+Prediction:  ຖ 
+ Confidence:  0.9999769
+Prediction:  ທ 
+ Confidence:  0.99998236
+Prediction:  ນ 
+ Confidence:  0.9999591
+Prediction:  ບ 
+ Confidence:  0.99726164
+Prediction:  ປ 
+ Confidence:  0.9095628
+Prediction:  ຜ 
+ Confidence:  0.9999527
+Prediction:  ຝ 
+ Confidence:  0.99773514
+Prediction:  ພ 
+ Confidence:  0.98245424
+Prediction:  ຟ 
+ Confidence:  0.8539912
+Prediction:  ມ 
+ Confidence:  0.99999166
+Prediction:  ຢ 
+ Confidence:  0.99617684
+Prediction:  ລ 
+ Confidence:  0.95466566
+Prediction:  ວ 
+ Confidence:  0.99999833
+Prediction:  ຫ 
+ Confidence:  0.9778911
+Prediction:  ອ 
+ Confidence:  0.9999496
+Prediction:  ຮ 
+ Confidence:  0.9999927
+Prediction:  ໜ 
+ Confidence:  0.99987745
+Prediction:  ໝ 
+ Confidence:  0.99968815
+Prediction:  ຣ 
+ Confidence:  0.9999999
+Prediction:  ະ 
+ Confidence:  1.0
+Prediction:  ັ 
+ Confidence:  0.7317232
+Prediction:  າ 
+ Confidence:  0.9716481
+Prediction:  ິ 
+ Confidence:  0.99999714
+Prediction:  ີ 
+ Confidence:  0.9998797
+Prediction:  ຶ 
+ Confidence:  0.90170604
+Prediction:  ື 
+ Confidence:  0.91495216
+Prediction:  ຸ 
+ Confidence:  0.9893811
+Prediction:  ູ 
+ Confidence:  0.99784863
+Prediction:  ົ 
+ Confidence:  1.0
+Prediction:  ຫຼ 
+ Confidence:  0.99999607
+Prediction:  ຽ 
+ Confidence:  0.9999025
+Prediction:  ເ 
+ Confidence:  0.9999995
+Prediction:  ແ 
+ Confidence:  0.9998578
+Prediction:  ໂ 
+ Confidence:  0.9999318
+Prediction:  ໃ 
+ Confidence:  0.9605334
+Prediction:  ໄ 
+ Confidence:  0.96981424
+Prediction:  ໆ 
+ Confidence:  0.99568236
+Prediction:  ່ 
+ Confidence:  0.988638
+Prediction:  ້ 
+ Confidence:  0.99890494
+Prediction:  ີ 
+ Confidence:  0.7954203
+Prediction:  ໋ 
+ Confidence:  1.0
+Prediction:  ໌ 
+ Confidence:  0.9947694
+Prediction:  ໍ 
+ Confidence:  0.86059207
