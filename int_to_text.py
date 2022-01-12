@@ -1,0 +1,83 @@
+def image_to_string(img):
+    result =[
+                [{'num': 0,'result': '0'}],
+                [{'num': 1,'result': '1'}],
+                [{'num': 2,'result': '2'}],
+                [{'num': 3,'result': '3'}],
+                [{'num': 4,'result': '4'}],
+                [{'num': 5,'result': '5'}],
+                [{'num': 6,'result': '6'}],
+                [{'num': 7,'result': '7'}],
+                [{'num': 8,'result': '8'}],
+                [{'num': 9,'result': '9'}],
+                [{'num': 10,'result': 'ກ'}],
+                [{'num': 11,'result': 'ຂ'}],
+                [{'num': 12,'result': 'ຄ'}],
+                [{'num': 13,'result': 'ງ'}],
+                [{'num': 14,'result': 'ຈ'}],
+                [{'num': 15,'result': 'ສ'}],
+                [{'num': 16,'result': 'ຊ'}],
+                [{'num': 17,'result': 'ຍ'}],
+                [{'num': 18,'result': 'ດ'}],
+                [{'num': 19,'result': 'ຕ'}],
+                [{'num': 20,'result': 'ຖ'}],
+                [{'num': 21,'result': 'ທ'}],
+                [{'num': 22,'result': 'ນ'}],
+                [{'num': 23,'result': 'ບ'}],
+                [{'num': 24,'result': 'ປ'}],
+                [{'num': 25,'result': 'ຜ'}],
+                [{'num': 26,'result': 'ຝ'}],
+                [{'num': 27,'result': 'ພ'}],
+                [{'num': 28,'result': 'ຟ'}],
+                [{'num': 29,'result': 'ມ'}],
+                [{'num': 30,'result': 'ຢ'}],
+                [{'num': 31,'result': 'ລ'}],
+                [{'num': 32,'result': 'ວ'}],
+                [{'num': 33,'result': 'ຫ'}],
+                [{'num': 34,'result': 'ອ'}],
+                [{'num': 35,'result': 'ຮ'}],
+                [{'num': 36,'result': 'ໜ'}],
+                [{'num': 37,'result': 'ໝ'}],
+                [{'num': 38,'result': 'ຣ'}],
+                [{'num': 39,'result': 'ະ'}],
+                [{'num': 40,'result': 'ັ'}],
+                [{'num': 41,'result': 'າ'}],
+                [{'num': 42,'result': 'ິ'}],
+                [{'num': 43,'result': 'ີ'}],
+                [{'num': 44,'result': 'ຶ'}],
+                [{'num': 45,'result': 'ື'}],
+                [{'num': 46,'result': 'ຸ'}],
+                [{'num': 47,'result': 'ູ'}],
+                [{'num': 48,'result': 'ົ'}],
+                [{'num': 49,'result': 'ຫຼ'}],
+                [{'num': 50,'result': 'ຽ'}],
+                [{'num': 51,'result': 'ເ'}],
+                [{'num': 52,'result': 'ແ'}],
+                [{'num': 53,'result': 'ໂ'}],
+                [{'num': 54,'result': 'ໃ'}],
+                [{'num': 55,'result': 'ໄ'}],
+                [{'num': 56,'result': 'ໆ'}],
+                [{'num': 57,'result': '່'}],
+                [{'num': 58,'result': '້'}],
+                [{'num': 59,'result': '້'}],
+                [{'num': 60,'result': '໋'}],
+                [{'num': 61,'result': '໌'}],
+                [{'num': 62,'result': 'ໍ'}],
+            ]
+    if img:
+        for num in result:
+            for n in num:
+                if img == n['num']:
+                    return n['result']
+    else:
+        return ''
+
+def class_labels():
+    label =[
+            '0','1','2','3','4','5','6','7','8','9',    
+            'ກ','ຂ','ຄ','ງ','ຈ','ສ','ຊ','ຍ','ດ','ຕ','ຖ',
+            'ທ','ນ','ບ','ປ','ຜ','ຝ','ພ','ຟ','ມ','ຢ','ລ',
+            'ວ','ຫ','ອ','ຮ','ໜ','ໝ','ຣ','ະ','ັ','າ','ິ','ີ','ຶ',
+            'ື','ຸ','ູ','ົ','ຫຼ','ຽ','ເ','ແ','ໂ','ໃ','ໄ','ໆ','່','້','້','໋','໌','ໍ',
+            ]
+    return label
